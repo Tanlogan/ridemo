@@ -1,0 +1,8 @@
+1320351233
+Application	D:/Sites/ridemo/config/application.rb	  class Application 
+ApplicationController	D:/Sites/ridemo/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	D:/Sites/ridemo/app/helpers/application_helper.rb	module ApplicationHelper
+BrowsingTest	D:/Sites/ridemo/test/performance/browsing_test.rb	class BrowsingTest 
+Ridemo	D:/Sites/ridemo/config/application.rb	module Ridemo
+TestCase	D:/Sites/ridemo/test/test_helper.rb	class ActiveSupport::TestCase
+test_homepage	D:/Sites/ridemo/test/performance/browsing_test.rb	  def test_homepage
